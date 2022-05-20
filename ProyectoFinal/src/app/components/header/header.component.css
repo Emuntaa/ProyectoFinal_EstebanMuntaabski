@@ -1,0 +1,8 @@
+.banner {
+  position: relative;
+  min-height: 100vh;
+  background-color:aliceblue;
+  background-size: cover;
+  background-position: center;
+  text-align: center;
+}
