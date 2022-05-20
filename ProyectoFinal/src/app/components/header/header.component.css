@@ -1,8 +1,26 @@
 .banner {
   position: relative;
   min-height: 100vh;
-  background-color:aliceblue;
+  background-image: url("../../../assets/fondo.png");
   background-size: cover;
   background-position: center;
   text-align: center;
+  color: whitesmoke;
+  padding: 250px 0 200px;
+}
+
+h1 {
+  color: lightcyan;
+}
+
+h2 {
+  color: lightcyan;
+}
+
+h3 {
+  color: gold;
+}
+
+.cc {
+  float: bottom;
 }
